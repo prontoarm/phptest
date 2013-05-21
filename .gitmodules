@@ -1,3 +1,0 @@
-[submodule "src/wp-slider-captcha"]
-	path = src/wp-slider-captcha
-	url = git@github.com:prontoarm/WP-Slider-Captcha.git
